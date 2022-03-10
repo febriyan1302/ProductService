@@ -1,0 +1,5 @@
+venv
+database/data/*
+.idea
+migrations/*
+__pycache__/
